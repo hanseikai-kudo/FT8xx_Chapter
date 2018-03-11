@@ -6,10 +6,8 @@
 
 Chapter 2_1
 
-https://www.youtube.com/watch?v=SAoRCd57cqs&
+[![](https://img.youtube.com/vi/SAoRCd57cqs/0.jpg)](https://www.youtube.com/watch?v=SAoRCd57cqs)
 
-
-[https://youtu.be/SAoRCd57cqs](https://youtu.be/SAoRCd57cqs)
 
 Chapter 2_2
 
